@@ -2,73 +2,61 @@
   {
     "rank": 1,
     "protocol": "VLESS-TLS",
-    "uri": "vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp#Channel",
-    "ping": 99.2,
+    "uri": "vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?path=/fp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@V2rayng_market_1378_bot",
+    "ping": 47.4,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1740.0,
+    "score": 1780.0,
     "endpoint": "88.216.69.253:443",
     "ip": "88.216.69.253"
   },
   {
     "rank": 2,
-    "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?allowInsecure=1&sni=66.163.112.121&type=tcp#trojan-1946215896",
-    "ping": 64.6,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?path=/fp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🔥Join+Telegram:@Farah_VPN🟣",
+    "ping": 50.2,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1730.0,
-    "endpoint": "66.163.112.121:443",
-    "ip": "66.163.112.121"
+    "score": 1760.0,
+    "endpoint": "88.216.69.253:443",
+    "ip": "88.216.69.253"
   },
   {
     "rank": 3,
-    "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?allowInsecure=1&sni=api.nextjobopportunityandclaimyouridealrole.com&type=tcp#trojan-1935612269",
-    "ping": 65.1,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://5f11c240-89df-494c-9c81-8b619023bb58@104.21.13.229:443?security=tls&encryption=none&insecure=0&host=789156.xyz&type=ws&allowInsecure=0&sni=789156.xyz#🔥Join+Telegram:@Farah_VPN🟣",
+    "ping": 95.5,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1730.0,
-    "endpoint": "66.163.112.242:443",
-    "ip": "66.163.112.242"
+    "score": 1720.0,
+    "endpoint": "104.21.13.229:443",
+    "ip": "104.21.13.229"
   },
   {
     "rank": 4,
     "protocol": "SS",
-    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999#shadowsocks-1875129452",
-    "ping": 33.6,
+    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#shadowsocks-1875022945",
+    "ping": 61.4,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1725.0,
-    "endpoint": "95.215.201.18:19999",
-    "ip": "95.215.201.18"
+    "score": 1705.0,
+    "endpoint": "45.86.51.18:19999",
+    "ip": "45.86.51.18"
   },
   {
     "rank": 5,
     "protocol": "VLESS",
-    "uri": "vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@170.114.45.6:8080?host=free.nadun.store&path=%2F&security=none&type=ws#vless-1935807325",
-    "ping": 730.7,
+    "uri": "vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@170.114.46.6:8080?host=free.nadun.store&path=%2F&security=none&type=ws#vless-1930539293",
+    "ping": 794.7,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1485.0,
-    "endpoint": "170.114.45.6:8080",
-    "ip": "170.114.45.6"
-  },
-  {
-    "rank": 6,
-    "protocol": "VLESS-TLS",
-    "uri": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.0.1:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#vless-1910526407",
-    "ping": 1038.1,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1420.0,
-    "endpoint": "104.16.0.1:443",
-    "ip": "104.16.0.1"
+    "score": 1455.0,
+    "endpoint": "170.114.46.6:8080",
+    "ip": "170.114.46.6"
   }
 ]
