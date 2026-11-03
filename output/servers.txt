@@ -1,11 +1,6 @@
-1. score=1760.0 | ping=74.3ms | real=3/3 | protocol=VLESS-TLS | endpoint=172.64.146.66:443
-2. score=1740.0 | ping=76.4ms | real=3/3 | protocol=VLESS | endpoint=172.64.150.28:2082
-3. score=1740.0 | ping=77.7ms | real=3/3 | protocol=VLESS-TLS | endpoint=88.216.69.253:443
-4. score=1740.0 | ping=79.2ms | real=3/3 | protocol=VLESS | endpoint=104.20.6.134:8080
-5. score=1740.0 | ping=84.5ms | real=3/3 | protocol=VLESS-TLS | endpoint=88.216.69.253:443
-6. score=1740.0 | ping=86.7ms | real=3/3 | protocol=VLESS-TLS | endpoint=172.66.0.162:443
-7. score=1720.0 | ping=108.2ms | real=3/3 | protocol=VLESS | endpoint=185.159.247.30:8880
-8. score=1700.0 | ping=116.2ms | real=3/3 | protocol=VLESS | endpoint=185.159.247.30:8880
-9. score=1520.0 | ping=1444.5ms | real=3/3 | protocol=VLESS-TLS | endpoint=188.114.97.6:443
-10. score=1455.0 | ping=782.6ms | real=3/3 | protocol=VLESS | endpoint=170.114.46.6:8080
-11. score=1445.0 | ping=1448.7ms | real=3/3 | protocol=VLESS-TLS | endpoint=104.16.10.22:443
+1. score=1710.0 | ping=135.8ms | real=3/3 | protocol=VLESS-TLS | endpoint=88.216.69.253:443
+2. score=1710.0 | ping=143.3ms | real=3/3 | protocol=VLESS-TLS | endpoint=88.216.69.253:443
+3. score=1710.0 | ping=149.8ms | real=3/3 | protocol=VLESS-TLS | endpoint=104.18.37.247:443
+4. score=1710.0 | ping=158.4ms | real=3/3 | protocol=VLESS-TLS | endpoint=172.66.0.162:443
+5. score=1710.0 | ping=168.1ms | real=3/3 | protocol=VLESS-TLS | endpoint=172.64.146.66:443
+6. score=1690.0 | ping=147.7ms | real=3/3 | protocol=VLESS | endpoint=172.64.150.28:2082
