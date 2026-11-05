@@ -1,26 +1,26 @@
 [
   {
     "rank": 1,
-    "protocol": "VLESS-REALITY",
-    "uri": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#vless-1853340740",
-    "ping": 54.1,
+    "protocol": "SS",
+    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#shadowsocks-1875022945",
+    "ping": 63.2,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1820.0,
-    "endpoint": "15.204.97.214:23576",
-    "ip": "15.204.97.214"
+    "score": 1705.0,
+    "endpoint": "45.86.51.18:19999",
+    "ip": "45.86.51.18"
   },
   {
     "rank": 2,
-    "protocol": "VLESS-TLS",
-    "uri": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.48.107:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#vless-1867102735",
-    "ping": 1472.1,
-    "real_successes": 3,
+    "protocol": "TROJAN",
+    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.26:443?security=tls&sni=blog.searchnationwidecareerchangehelperandguidancetoday.com#⚡",
+    "ping": 275.2,
+    "real_successes": 2,
     "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1420.0,
-    "endpoint": "104.19.48.107:443",
-    "ip": "104.19.48.107"
+    "real_success_rate": 0.6666666666666666,
+    "score": 1085.0,
+    "endpoint": "66.163.122.26:443",
+    "ip": "66.163.122.26"
   }
 ]

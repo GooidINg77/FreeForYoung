@@ -1,2 +1,2 @@
-1. score=1820.0 | ping=54.1ms | real=3/3 | protocol=VLESS-REALITY | endpoint=15.204.97.214:23576
-2. score=1420.0 | ping=1472.1ms | real=3/3 | protocol=VLESS-TLS | endpoint=104.19.48.107:443
+1. score=1705.0 | ping=63.2ms | real=3/3 | protocol=SS | endpoint=45.86.51.18:19999
+2. score=1085.0 | ping=275.2ms | real=2/3 | protocol=TROJAN | endpoint=66.163.122.26:443
