@@ -8,5 +8,7 @@
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #proxy-ping-mode: keepalive
 #ping-result: time
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#shadowsocks-1875022945?serverDescription=RnJlZUZvcllvdW5nIFNTIDAxIMK3IDYzbXM=
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.26:443?security=tls&sni=blog.searchnationwidecareerchangehelperandguidancetoday.com#⚡?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMiDCtyAyNzVtcw==
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.142:443?security=tls&insecure=0&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=cdn.unlockyourfuturefindyourperfectcareer.com#US?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMSDCtyA3MG1z
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.unlockyourfuturefindyourperfectcareer.com#Channel?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMiDCtyA3M21z
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?allowInsecure=1&sni=66.163.112.121&type=tcp#trojan-1946215896?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMyDCtyA3NW1z
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999#shadowsocks-1875129452?serverDescription=RnJlZUZvcllvdW5nIFNTIDA0IMK3IDMybXM=

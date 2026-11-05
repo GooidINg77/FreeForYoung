@@ -1,2 +1,4 @@
-1. score=1705.0 | ping=63.2ms | real=3/3 | protocol=SS | endpoint=45.86.51.18:19999
-2. score=1085.0 | ping=275.2ms | real=2/3 | protocol=TROJAN | endpoint=66.163.122.26:443
+1. score=1730.0 | ping=70.0ms | real=3/3 | protocol=TROJAN | endpoint=66.163.112.142:443
+2. score=1730.0 | ping=73.2ms | real=3/3 | protocol=TROJAN | endpoint=66.163.112.121:443
+3. score=1730.0 | ping=74.8ms | real=3/3 | protocol=TROJAN | endpoint=66.163.112.121:443
+4. score=1725.0 | ping=32.1ms | real=3/3 | protocol=SS | endpoint=95.215.201.18:19999
