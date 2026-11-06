@@ -1,26 +1,38 @@
 [
   {
     "rank": 1,
-    "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?sni=api.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#trojan-1939845099",
-    "ping": 111.5,
+    "protocol": "VLESS-REALITY",
+    "uri": "vless://1b4b11d5-4c2d-4533-9a55-636757cdee94@195.211.98.43:443?security=reality&encryption=none&pbk=xPnpkXu5qfwIArlHKvJsqKJnGdGbJK1tT2GzWMyLohA&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9c56fddf237e8eaf#Tel@v2ray_configs_pools",
+    "ping": 58.6,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1690.0,
-    "endpoint": "167.88.61.20:443",
-    "ip": "167.88.61.20"
+    "score": 1820.0,
+    "endpoint": "195.211.98.43:443",
+    "ip": "195.211.98.43"
   },
   {
     "rank": 2,
     "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#trojan-1942154532",
-    "ping": 85.1,
-    "real_successes": 2,
+    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#🔥Join+Telegram:@Farah_VPN🟣",
+    "ping": 60.0,
+    "real_successes": 3,
     "real_attempts": 3,
-    "real_success_rate": 0.6666666666666666,
-    "score": 1306.66,
-    "endpoint": "167.88.61.198:443",
-    "ip": "167.88.61.198"
+    "real_success_rate": 1.0,
+    "score": 1730.0,
+    "endpoint": "216.152.155.23:443",
+    "ip": "216.152.155.23"
+  },
+  {
+    "rank": 3,
+    "protocol": "TROJAN",
+    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&sni=learn.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.54-0187",
+    "ping": 60.8,
+    "real_successes": 3,
+    "real_attempts": 3,
+    "real_success_rate": 1.0,
+    "score": 1710.0,
+    "endpoint": "216.152.155.54:443",
+    "ip": "216.152.155.54"
   }
 ]
