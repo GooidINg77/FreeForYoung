@@ -1,74 +1,50 @@
 [
   {
     "rank": 1,
-    "protocol": "VLESS",
-    "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?path=/&security=none&encryption=none&host=vms.lifetime18.workers.dev&type=ws#@meliproxyy",
-    "ping": 201.9,
+    "protocol": "TROJAN",
+    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.175:443?sni=blog.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#trojan-1943021612",
+    "ping": 42.8,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1650.0,
-    "endpoint": "185.225.195.30:8880",
-    "ip": "185.225.195.30"
+    "score": 1750.0,
+    "endpoint": "167.88.61.175:443",
+    "ip": "167.88.61.175"
   },
   {
     "rank": 2,
-    "protocol": "VLESS",
-    "uri": "vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.21.70.21:8080?sni=nautica-cff.kloningstrife002.workers.dev&type=ws&host=nautica-cff.kloningstrife002.workers.dev&path=/138.2.74.219-28616#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20vless-JP-1...",
-    "ping": 150.9,
+    "protocol": "TROJAN",
+    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#trojan-1941512533",
+    "ping": 45.7,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1560.0,
-    "endpoint": "104.21.70.21:8080",
-    "ip": "104.21.70.21"
+    "score": 1750.0,
+    "endpoint": "167.88.61.198:443",
+    "ip": "167.88.61.198"
   },
   {
     "rank": 3,
     "protocol": "TROJAN",
-    "uri": "trojan://gHQP0D7D15@104.27.0.1:2053?alpn=http%2F1.1&host=marvdasht.phonecomparisonblog.org&insecure=0&path=%2F&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&fp=safari#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE",
-    "ping": 1189.4,
+    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#trojan-1942154532",
+    "ping": 43.2,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1490.0,
-    "endpoint": "104.27.0.1:2053",
-    "ip": "104.27.0.1"
+    "score": 1725.56,
+    "endpoint": "167.88.61.198:443",
+    "ip": "167.88.61.198"
   },
   {
     "rank": 4,
-    "protocol": "VLESS-TLS",
-    "uri": "vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.10.191:443?encryption=none&security=tls&type=ws&path=/&host=u.srilankangrill.online&sni=u.srilankangrill.online&fp=chrome#[88008]",
-    "ping": 1114.8,
+    "protocol": "TROJAN",
+    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?sni=browseseniorrolesandenhanceyourcareertoday.com&type=tcp#trojan-1941512524",
+    "ping": 45.7,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1445.0,
-    "endpoint": "104.16.10.191:443",
-    "ip": "104.16.10.191"
-  },
-  {
-    "rank": 5,
-    "protocol": "VLESS",
-    "uri": "vless://50414e45-4c5f-5a45-5553-52108a2d5224@104.27.88.172:80?sni=web-app-nr6wpa.app-tp57xz.workers.dev&type=ws&host=web-app-nr6wpa.app-tp57xz.workers.dev&path=/api/ws#%F0%9F%87%A9%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-DE-1...%20%238",
-    "ping": 915.8,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1425.0,
-    "endpoint": "104.27.88.172:80",
-    "ip": "104.27.88.172"
-  },
-  {
-    "rank": 6,
-    "protocol": "VLESS-TLS",
-    "uri": "vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.24.11.68:443?encryption=none&security=tls&type=ws&path=/&host=u.srilankangrill.online&sni=u.srilankangrill.online&fp=chrome#@FXxNET⚡️",
-    "ping": 1116.8,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1420.0,
-    "endpoint": "104.24.11.68:443",
-    "ip": "104.24.11.68"
+    "score": 1701.11,
+    "endpoint": "167.88.61.193:443",
+    "ip": "167.88.61.193"
   }
 ]
