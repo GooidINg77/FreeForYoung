@@ -1,2 +1,1 @@
-1. score=1630.0 | ping=291.6ms | real=3/3 | protocol=VLESS-TLS | endpoint=199.232.78.160:443
-2. score=1530.0 | ping=259.5ms | real=3/3 | protocol=VLESS-TLS | endpoint=199.232.78.159:443
+1. score=1587.78 | ping=169.7ms | real=3/3 | protocol=VLESS-TLS | endpoint=104.18.40.171:443
