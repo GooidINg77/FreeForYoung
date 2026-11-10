@@ -1,1 +1,3 @@
-1. score=1680.0 | ping=145.1ms | real=3/3 | protocol=TROJAN | endpoint=104.17.10.171:443
+1. score=1750.0 | ping=48.1ms | real=3/3 | protocol=TROJAN | endpoint=216.152.155.23:443
+2. score=1670.0 | ping=192.3ms | real=3/3 | protocol=VLESS-TLS | endpoint=162.159.249.92:443
+3. score=1105.0 | ping=491.2ms | real=2/3 | protocol=VLESS-TLS | endpoint=104.21.58.37:2053
