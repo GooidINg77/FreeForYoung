@@ -8,5 +8,5 @@
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #proxy-ping-mode: keepalive
 #ping-result: time
-vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.247.95:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#🔥Join+Telegram:@Farah_VPN🟣?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMSDCtyA5OTJtcw==
-vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.247.95:8443?encryption=none&security=tls&sni=moz.ar-marz.fun&fp=firefox&type=ws&host=moz.ar-marz.fun&path=%2Fman#🔥Join+Telegram:@Farah_VPN🟣?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMiDCtyAxMDAzbXM=
+vless://8895be79-9817-4011-b81a-14a35a3d328e@104.18.40.171:443?fp=chrome&host=wallweb-boi.pages.dev&path=%2F&security=tls&sni=wallweb-boi.pages.dev&type=ws#vless-1947014531?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMSDCtyAxNDhtcw==
+trojan://558e3e91-0ffa-4180-9386-5813fa7c3cb1@172.64.152.234:443?security=tls&sni=pz333.pzmike.dpdns.org&type=ws&path=/&Host=pz333.pzmike.dpdns.org#%F0%9F%8F%81RELAY-172.64.152.234-0479?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMiDCtyAxNTVtcw==
