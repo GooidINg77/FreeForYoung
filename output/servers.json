@@ -2,25 +2,61 @@
   {
     "rank": 1,
     "protocol": "VLESS-TLS",
-    "uri": "vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&encryption=none&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC",
-    "ping": 1437.8,
+    "uri": "vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&encryption=none&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC",
+    "ping": 1468.1,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
     "score": 1520.0,
-    "endpoint": "170.114.45.6:2096",
-    "ip": "170.114.45.6"
+    "endpoint": "170.114.46.6:2096",
+    "ip": "170.114.46.6"
   },
   {
     "rank": 2,
     "protocol": "VLESS-TLS",
-    "uri": "vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&type=ws&path=%2F&host=pcloud.z-tas.com&sni=pcloud.z-tas.com&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC",
-    "ping": 1483.1,
+    "uri": "vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.247.95:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#@v2ray313",
+    "ping": 891.2,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1520.0,
-    "endpoint": "170.114.45.6:2096",
-    "ip": "170.114.45.6"
+    "score": 1475.0,
+    "endpoint": "190.93.247.95:8443",
+    "ip": "190.93.247.95"
+  },
+  {
+    "rank": 3,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://9443badf-414f-4b12-b19a-7cc2c7431163@104.19.248.199:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#🚀@VPNine1",
+    "ping": 915.0,
+    "real_successes": 3,
+    "real_attempts": 3,
+    "real_success_rate": 1.0,
+    "score": 1475.0,
+    "endpoint": "104.19.248.199:8443",
+    "ip": "104.19.248.199"
+  },
+  {
+    "rank": 4,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?encryption=none&security=tls&sni=moz.ar-marz.fun&fp=firefox&type=ws&host=moz.ar-marz.fun&path=%2Fman#🔥Join+Telegram:@Farah_VPN🟣",
+    "ping": 972.3,
+    "real_successes": 3,
+    "real_attempts": 3,
+    "real_success_rate": 1.0,
+    "score": 1445.0,
+    "endpoint": "190.93.244.47:8443",
+    "ip": "190.93.244.47"
+  },
+  {
+    "rank": 5,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#@v2ray313",
+    "ping": 953.3,
+    "real_successes": 3,
+    "real_attempts": 3,
+    "real_success_rate": 1.0,
+    "score": 1310.0,
+    "endpoint": "190.93.244.47:8443",
+    "ip": "190.93.244.47"
   }
 ]

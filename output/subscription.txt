@@ -8,5 +8,8 @@
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #proxy-ping-mode: keepalive
 #ping-result: time
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&encryption=none&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMSDCtyAxNDM4bXM=
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&type=ws&path=%2F&host=pcloud.z-tas.com&sni=pcloud.z-tas.com&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMiDCtyAxNDgzbXM=
+vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&encryption=none&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMSDCtyAxNDY4bXM=
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.247.95:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#@v2ray313?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMiDCtyA4OTFtcw==
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@104.19.248.199:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#🚀@VPNine1?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMyDCtyA5MTVtcw==
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?encryption=none&security=tls&sni=moz.ar-marz.fun&fp=firefox&type=ws&host=moz.ar-marz.fun&path=%2Fman#🔥Join+Telegram:@Farah_VPN🟣?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwNCDCtyA5NzJtcw==
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#@v2ray313?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwNSDCtyA5NTNtcw==
