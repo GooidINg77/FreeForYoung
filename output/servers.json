@@ -1,26 +1,74 @@
 [
   {
     "rank": 1,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.64.158.33:443?security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F&allowInsecure=0#CA",
+    "ping": 110.1,
+    "real_successes": 3,
+    "real_attempts": 3,
+    "real_success_rate": 1.0,
+    "score": 1740.0,
+    "endpoint": "172.64.158.33:443",
+    "ip": "172.64.158.33"
+  },
+  {
+    "rank": 2,
     "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#@i10VPN¹⁰",
-    "ping": 72.7,
+    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?allowInsecure=1&sni=66.163.112.121&type=tcp#trojan-1946215896",
+    "ping": 57.3,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
     "score": 1730.0,
-    "endpoint": "66.163.122.7:443",
-    "ip": "66.163.122.7"
+    "endpoint": "66.163.112.121:443",
+    "ip": "66.163.112.121"
   },
   {
-    "rank": 2,
-    "protocol": "VLESS-TLS",
-    "uri": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@162.159.198.1:443?encryption=none&security=tls&sni=fs.qicai99.com&fp=chrome&type=ws&host=fs.qicai99.com&path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560#CA",
-    "ping": 121.7,
+    "rank": 3,
+    "protocol": "TROJAN",
+    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?allowInsecure=1&sni=api.nextjobopportunityandclaimyouridealrole.com&type=tcp#trojan-1935612269",
+    "ping": 59.4,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1635.0,
-    "endpoint": "162.159.198.1:443",
-    "ip": "162.159.198.1"
+    "score": 1730.0,
+    "endpoint": "66.163.112.242:443",
+    "ip": "66.163.112.242"
+  },
+  {
+    "rank": 4,
+    "protocol": "SS",
+    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999#shadowsocks-1875129452",
+    "ping": 52.5,
+    "real_successes": 3,
+    "real_attempts": 3,
+    "real_success_rate": 1.0,
+    "score": 1705.0,
+    "endpoint": "95.215.201.18:19999",
+    "ip": "95.215.201.18"
+  },
+  {
+    "rank": 5,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://97e0ea78-67ae-4984-8a14-a7d1a51e58de@146.75.59.186:443?allowInsecure=1&encryption=none&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=/&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣",
+    "ping": 251.1,
+    "real_successes": 3,
+    "real_attempts": 3,
+    "real_success_rate": 1.0,
+    "score": 1585.0,
+    "endpoint": "146.75.59.186:443",
+    "ip": "146.75.59.186"
+  },
+  {
+    "rank": 6,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.31.89:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#vless-1853972214",
+    "ping": 1484.0,
+    "real_successes": 3,
+    "real_attempts": 3,
+    "real_success_rate": 1.0,
+    "score": 1410.83,
+    "endpoint": "104.24.31.89:443",
+    "ip": "104.24.31.89"
   }
 ]

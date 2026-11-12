@@ -8,5 +8,9 @@
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #proxy-ping-mode: keepalive
 #ping-result: time
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#@i10VPN¹⁰?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMSDCtyA3M21z
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@162.159.198.1:443?encryption=none&security=tls&sni=fs.qicai99.com&fp=chrome&type=ws&host=fs.qicai99.com&path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560#CA?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMiDCtyAxMjJtcw==
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.64.158.33:443?security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F&allowInsecure=0#CA?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMSDCtyAxMTBtcw==
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?allowInsecure=1&sni=66.163.112.121&type=tcp#trojan-1946215896?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMiDCtyA1N21z
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?allowInsecure=1&sni=api.nextjobopportunityandclaimyouridealrole.com&type=tcp#trojan-1935612269?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMyDCtyA1OW1z
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999#shadowsocks-1875129452?serverDescription=RnJlZUZvcllvdW5nIFNTIDA0IMK3IDUybXM=
+vless://97e0ea78-67ae-4984-8a14-a7d1a51e58de@146.75.59.186:443?allowInsecure=1&encryption=none&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=/&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwNSDCtyAyNTFtcw==
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.31.89:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#vless-1853972214?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwNiDCtyAxNDg0bXM=
