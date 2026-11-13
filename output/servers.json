@@ -2,8 +2,20 @@
   {
     "rank": 1,
     "protocol": "VLESS-TLS",
-    "uri": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.67.74.177:443?path=/&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&fp=chrome&type=ws&allowInsecure=0&sni=fs.qicai99.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": 108.7,
+    "uri": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@162.159.198.1:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&fp=chrome&type=ws&allowInsecure=0&sni=fs.qicai99.com#Tel@MARAMBASHI",
+    "ping": 79.9,
+    "real_successes": 3,
+    "real_attempts": 3,
+    "real_success_rate": 1.0,
+    "score": 1760.0,
+    "endpoint": "162.159.198.1:443",
+    "ip": "162.159.198.1"
+  },
+  {
+    "rank": 2,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.67.74.177:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#Tel@MARAMBASHI",
+    "ping": 84.6,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
@@ -12,39 +24,39 @@
     "ip": "172.67.74.177"
   },
   {
-    "rank": 2,
-    "protocol": "VLESS-TLS",
-    "uri": "vless://2b181a3a-c001-4145-845a-5d43a43837d5@104.17.148.111:443?security=tls&type=ws&path=%2F&host=vpn-1fj.pages.dev&packetEncoding=xudp&sni=vpn-1fj.pages.dev&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
-    "ping": 98.4,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1720.0,
-    "endpoint": "104.17.148.111:443",
-    "ip": "104.17.148.111"
-  },
-  {
     "rank": 3,
     "protocol": "VLESS-TLS",
-    "uri": "vless://97e0ea78-67ae-4984-8a14-a7d1a51e58de@146.75.59.186:443?allowInsecure=1&encryption=none&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=/&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣",
-    "ping": 133.5,
+    "uri": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.18.34.33:443?path=/&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#🔥Join+Telegram:@Farah_VPN🟣",
+    "ping": 97.9,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1710.0,
-    "endpoint": "146.75.59.186:443",
-    "ip": "146.75.59.186"
+    "score": 1740.0,
+    "endpoint": "104.18.34.33:443",
+    "ip": "104.18.34.33"
   },
   {
     "rank": 4,
-    "protocol": "VLESS-TLS",
-    "uri": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.67.74.177:443?path=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&fp=chrome&type=ws&allowInsecure=0&sni=fs.qicai99.com#🔥Join+Telegram:@Farah_VPN🟣",
-    "ping": 143.5,
+    "protocol": "TROJAN",
+    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#trojan-1942154532",
+    "ping": 42.3,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1635.0,
-    "endpoint": "172.67.74.177:443",
-    "ip": "172.67.74.177"
+    "score": 1735.33,
+    "endpoint": "167.88.61.198:443",
+    "ip": "167.88.61.198"
+  },
+  {
+    "rank": 5,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.21.41.243:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&fp=chrome&type=ws&allowInsecure=0&sni=fs.qicai99.com#🔥Join+Telegram:@Farah_VPN🟣",
+    "ping": 91.6,
+    "real_successes": 3,
+    "real_attempts": 3,
+    "real_success_rate": 1.0,
+    "score": 1695.0,
+    "endpoint": "104.21.41.243:443",
+    "ip": "104.21.41.243"
   }
 ]
