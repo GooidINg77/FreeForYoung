@@ -8,9 +8,7 @@
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #proxy-ping-mode: keepalive
 #ping-result: time
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.64.158.33:443?security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F&allowInsecure=0#CA?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMSDCtyAxMTBtcw==
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?allowInsecure=1&sni=66.163.112.121&type=tcp#trojan-1946215896?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMiDCtyA1N21z
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?allowInsecure=1&sni=api.nextjobopportunityandclaimyouridealrole.com&type=tcp#trojan-1935612269?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMyDCtyA1OW1z
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999#shadowsocks-1875129452?serverDescription=RnJlZUZvcllvdW5nIFNTIDA0IMK3IDUybXM=
-vless://97e0ea78-67ae-4984-8a14-a7d1a51e58de@146.75.59.186:443?allowInsecure=1&encryption=none&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=/&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwNSDCtyAyNTFtcw==
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.31.89:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#vless-1853972214?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwNiDCtyAxNDg0bXM=
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.67.74.177:443?path=/&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&fp=chrome&type=ws&allowInsecure=0&sni=fs.qicai99.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMSDCtyAxMDltcw==
+vless://2b181a3a-c001-4145-845a-5d43a43837d5@104.17.148.111:443?security=tls&type=ws&path=%2F&host=vpn-1fj.pages.dev&packetEncoding=xudp&sni=vpn-1fj.pages.dev&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMiDCtyA5OG1z
+vless://97e0ea78-67ae-4984-8a14-a7d1a51e58de@146.75.59.186:443?allowInsecure=1&encryption=none&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=/&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMyDCtyAxMzRtcw==
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.67.74.177:443?path=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&fp=chrome&type=ws&allowInsecure=0&sni=fs.qicai99.com#🔥Join+Telegram:@Farah_VPN🟣?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwNCDCtyAxNDRtcw==
