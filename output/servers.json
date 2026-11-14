@@ -1,38 +1,26 @@
 [
   {
     "rank": 1,
-    "protocol": "SS",
-    "uri": "ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#shadowsocks-1827147591",
-    "ping": 44.5,
+    "protocol": "TROJAN",
+    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.155:443?security=tls&insecure=0&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=api.findlocaljobnetworkandbuildcommunityconnections.com#@ConfigV2RayNG",
+    "ping": 52.4,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1725.0,
-    "endpoint": "15.204.247.206:4444",
-    "ip": "15.204.247.206"
+    "score": 1730.0,
+    "endpoint": "216.106.186.155:443",
+    "ip": "216.106.186.155"
   },
   {
     "rank": 2,
-    "protocol": "SS",
-    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#shadowsocks-1875022945",
-    "ping": 63.2,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#US",
+    "ping": 985.7,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1705.0,
-    "endpoint": "45.86.51.18:19999",
-    "ip": "45.86.51.18"
-  },
-  {
-    "rank": 3,
-    "protocol": "SS",
-    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#shadowsocks-1875023016",
-    "ping": 63.6,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1705.0,
-    "endpoint": "185.230.230.18:19999",
-    "ip": "185.230.230.18"
+    "score": 1520.0,
+    "endpoint": "170.114.46.6:2096",
+    "ip": "170.114.46.6"
   }
 ]
