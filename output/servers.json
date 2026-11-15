@@ -1,26 +1,38 @@
 [
   {
     "rank": 1,
-    "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.26:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.searchnationwidecareerchangehelperandguidancetoday.com#🔥Join+Telegram:@Farah_VPN🟣",
-    "ping": 81.8,
+    "protocol": "SS",
+    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.230.230.18:19999#🇺🇸",
+    "ping": 74.9,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1710.0,
-    "endpoint": "66.163.122.26:443",
-    "ip": "66.163.122.26"
+    "score": 1705.0,
+    "endpoint": "185.230.230.18:19999",
+    "ip": "185.230.230.18"
   },
   {
     "rank": 2,
-    "protocol": "TROJAN",
-    "uri": "trojan://jcTG9WSWMJAmR4rv10xpww@199.232.78.159:443?type=ws&security=tls&path=/TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com&insecure=1&allowInsecure=1#@tootffarangi🍓",
-    "ping": 967.2,
+    "protocol": "SS",
+    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#shadowsocks-1875023016",
+    "ping": 75.6,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1390.0,
-    "endpoint": "199.232.78.159:443",
-    "ip": "199.232.78.159"
+    "score": 1705.0,
+    "endpoint": "185.230.230.18:19999",
+    "ip": "185.230.230.18"
+  },
+  {
+    "rank": 3,
+    "protocol": "SS",
+    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.111.38.72:19999#🔥Join+Telegram:@Farah_VPN🟣",
+    "ping": 77.6,
+    "real_successes": 3,
+    "real_attempts": 3,
+    "real_success_rate": 1.0,
+    "score": 1705.0,
+    "endpoint": "172.111.38.72:19999",
+    "ip": "172.111.38.72"
   }
 ]
