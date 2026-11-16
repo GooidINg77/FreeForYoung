@@ -1,62 +1,50 @@
 [
   {
     "rank": 1,
-    "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?security=tls&sni=blog.unlockyourfuturefindyourperfectcareer.com#🔥Join+Telegram:@Farah_VPN🟣",
-    "ping": 53.3,
+    "protocol": "VLESS-REALITY",
+    "uri": "vless://5cbc4b74-5352-4e64-af65-bcbabf46a18a@172.233.201.244:61635?security=reality&encryption=none&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1f2519bb96e5589c#🔥Join+Telegram:@Farah_VPN🟣",
+    "ping": 46.3,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1730.0,
-    "endpoint": "66.163.112.13:443",
-    "ip": "66.163.112.13"
+    "score": 1840.0,
+    "endpoint": "172.233.201.244:61635",
+    "ip": "172.233.201.244"
   },
   {
     "rank": 2,
-    "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?allowInsecure=1&sni=66.163.112.121&type=tcp#trojan-1946215896",
-    "ping": 53.4,
+    "protocol": "VLESS-REALITY",
+    "uri": "vless://5cbc4b74-5352-4e64-af65-bcbabf46a18a@172.233.201.244:61635?security=reality&encryption=none&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1f2519bb96e5589c#🔥Join+Telegram:@Farah_VPN🟣",
+    "ping": 57.1,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1730.0,
-    "endpoint": "66.163.112.121:443",
-    "ip": "66.163.112.121"
+    "score": 1820.0,
+    "endpoint": "172.233.201.244:61635",
+    "ip": "172.233.201.244"
   },
   {
     "rank": 3,
-    "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?allowInsecure=1&sni=api.nextjobopportunityandclaimyouridealrole.com&type=tcp#trojan-1935612269",
-    "ping": 55.5,
+    "protocol": "SS",
+    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#shadowsocks-1875022945",
+    "ping": 59.2,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1730.0,
-    "endpoint": "66.163.112.242:443",
-    "ip": "66.163.112.242"
+    "score": 1705.0,
+    "endpoint": "45.86.51.18:19999",
+    "ip": "45.86.51.18"
   },
   {
     "rank": 4,
-    "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.76:443?sni=api.unlockyourfuturefindyourperfectcareer.com#🪅96@oneclickvpnkeys",
-    "ping": 56.4,
+    "protocol": "SS",
+    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#🔥Join+Telegram:@Farah_VPN🟣",
+    "ping": 60.4,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1730.0,
-    "endpoint": "66.163.112.76:443",
-    "ip": "66.163.112.76"
-  },
-  {
-    "rank": 5,
-    "protocol": "VLESS-TLS",
-    "uri": "vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?encryption=none&security=tls&sni=pcloud.z-tas.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=pcloud.z-tas.com&path=/#✅",
-    "ping": 1153.7,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1500.0,
-    "endpoint": "170.114.45.6:2096",
-    "ip": "170.114.45.6"
+    "score": 1705.0,
+    "endpoint": "45.86.51.18:19999",
+    "ip": "45.86.51.18"
   }
 ]
