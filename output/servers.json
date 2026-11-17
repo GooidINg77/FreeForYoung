@@ -1,50 +1,26 @@
 [
   {
     "rank": 1,
-    "protocol": "VLESS-REALITY",
-    "uri": "vless://5cbc4b74-5352-4e64-af65-bcbabf46a18a@172.233.201.244:61635?security=reality&encryption=none&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1f2519bb96e5589c#🔥Join+Telegram:@Farah_VPN🟣",
-    "ping": 46.3,
+    "protocol": "VLESS",
+    "uri": "vless://2500e602-671c-4654-a602-c518b7282167@104.19.173.68:8080/?type=ws&encryption=none&flow=&host=2639w-throbbing-band-3840.xphnn6jp.workers.dev#@VPsave",
+    "ping": 152.2,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1840.0,
-    "endpoint": "172.233.201.244:61635",
-    "ip": "172.233.201.244"
+    "score": 1690.0,
+    "endpoint": "104.19.173.68:8080",
+    "ip": "104.19.173.68"
   },
   {
     "rank": 2,
-    "protocol": "VLESS-REALITY",
-    "uri": "vless://5cbc4b74-5352-4e64-af65-bcbabf46a18a@172.233.201.244:61635?security=reality&encryption=none&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1f2519bb96e5589c#🔥Join+Telegram:@Farah_VPN🟣",
-    "ping": 57.1,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://70756c73-0000-4000-8000-650000000000@104.234.239.139:443?path=/pulse&security=tls&encryption=none&insecure=0&host=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=parsa-panel-u48we.wotic15356.workers.dev#@meliproxyy",
+    "ping": 608.9,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1820.0,
-    "endpoint": "172.233.201.244:61635",
-    "ip": "172.233.201.244"
-  },
-  {
-    "rank": 3,
-    "protocol": "SS",
-    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#shadowsocks-1875022945",
-    "ping": 59.2,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1705.0,
-    "endpoint": "45.86.51.18:19999",
-    "ip": "45.86.51.18"
-  },
-  {
-    "rank": 4,
-    "protocol": "SS",
-    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#🔥Join+Telegram:@Farah_VPN🟣",
-    "ping": 60.4,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1705.0,
-    "endpoint": "45.86.51.18:19999",
-    "ip": "45.86.51.18"
+    "score": 1475.0,
+    "endpoint": "104.234.239.139:443",
+    "ip": "104.234.239.139"
   }
 ]
