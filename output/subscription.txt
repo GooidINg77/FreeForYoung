@@ -8,7 +8,7 @@
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #proxy-ping-mode: keepalive
 #ping-result: time
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?allowInsecure=1&sni=api.nextjobopportunityandclaimyouridealrole.com&type=tcp#trojan-1935612269?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMSDCtyA1Nm1z
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?allowInsecure=1&sni=66.163.112.121&type=tcp#trojan-1946215896?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMiDCtyA2Mm1z
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=blog.unlockyourfuturefindyourperfectcareer.com#🔥Join+Telegram:@Farah_VPN🟣?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMyDCtyA2NW1z
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999#shadowsocks-1875129452?serverDescription=RnJlZUZvcllvdW5nIFNTIDA0IMK3IDQ1bXM=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#shadowsocks-1827146815?serverDescription=RnJlZUZvcllvdW5nIFNTIDAxIMK3IDU3bXM=
+vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:2052?type=ws&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&path=/Telegram-XV2ry2?ed=2048#%F0%9F%87%B8%F0%9F%87%AC%5Bwww.v2nodes.com%5D%20vless-SG-7...%20%231?serverDescription=RnJlZUZvcllvdW5nIFZMRVNTIDAyIMK3IDEyM21z
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@27.50.48.6:443?sni=vless2-8vx.pages.dev&alpn=h3&type=ws&host=vless2-8vx.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%5Bwww.v2nodes.com%5D%20vless-SG-1...%20%231?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMyDCtyAxNzNtcw==
+vless://e98a123b-7a6f-444d-985d-ad2c389a85ec@159.60.146.82:443?alpn=http%2F1.1&path=%2Fws%3Fip%3D159.60.146.82%3A443&security=tls&type=ws&encryption=none&fp=chrome&fragment=120-1500%2C1-4%2Ctlshello&insecure=0&fm=%7B%22udp%22%3A%5B%7B%22type%22%3A%22noise%22%2C%22settings%22%3A%7B%22reset%22%3A%2228%22%2C%22noise%22%3A%5B%7B%22rand%22%3A%221200-1230%22%2C%22delay%22%3A%2210%22%7D%2C%7B%22rand%22%3A%221200-1230%22%2C%22delay%22%3A%2210%22%7D%2C%7B%22rand%22%3A%2212&sni=flow-vault-hiizyn.pages.dev&allowInsecure=0&host=flow-vault-hiizyn.pages.dev#⚡?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwNCDCtyA0MDdtcw==

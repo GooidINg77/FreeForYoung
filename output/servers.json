@@ -1,50 +1,50 @@
 [
   {
     "rank": 1,
-    "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?allowInsecure=1&sni=api.nextjobopportunityandclaimyouridealrole.com&type=tcp#trojan-1935612269",
-    "ping": 55.9,
+    "protocol": "SS",
+    "uri": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#shadowsocks-1827146815",
+    "ping": 56.6,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1730.0,
-    "endpoint": "66.163.112.242:443",
-    "ip": "66.163.112.242"
+    "score": 1705.0,
+    "endpoint": "156.146.38.168:443",
+    "ip": "156.146.38.168"
   },
   {
     "rank": 2,
-    "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?allowInsecure=1&sni=66.163.112.121&type=tcp#trojan-1946215896",
-    "ping": 62.0,
+    "protocol": "VLESS",
+    "uri": "vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:2052?type=ws&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&path=/Telegram-XV2ry2?ed=2048#%F0%9F%87%B8%F0%9F%87%AC%5Bwww.v2nodes.com%5D%20vless-SG-7...%20%231",
+    "ping": 122.7,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1730.0,
-    "endpoint": "66.163.112.121:443",
-    "ip": "66.163.112.121"
+    "score": 1690.0,
+    "endpoint": "104.18.109.147:2052",
+    "ip": "104.18.109.147"
   },
   {
     "rank": 3,
-    "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=blog.unlockyourfuturefindyourperfectcareer.com#🔥Join+Telegram:@Farah_VPN🟣",
-    "ping": 64.6,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@27.50.48.6:443?sni=vless2-8vx.pages.dev&alpn=h3&type=ws&host=vless2-8vx.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%5Bwww.v2nodes.com%5D%20vless-SG-1...%20%231",
+    "ping": 172.7,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1730.0,
-    "endpoint": "66.163.112.13:443",
-    "ip": "66.163.112.13"
+    "score": 1665.0,
+    "endpoint": "27.50.48.6:443",
+    "ip": "27.50.48.6"
   },
   {
     "rank": 4,
-    "protocol": "SS",
-    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999#shadowsocks-1875129452",
-    "ping": 45.0,
+    "protocol": "VLESS-TLS",
+    "uri": "vless://e98a123b-7a6f-444d-985d-ad2c389a85ec@159.60.146.82:443?alpn=http%2F1.1&path=%2Fws%3Fip%3D159.60.146.82%3A443&security=tls&type=ws&encryption=none&fp=chrome&fragment=120-1500%2C1-4%2Ctlshello&insecure=0&fm=%7B%22udp%22%3A%5B%7B%22type%22%3A%22noise%22%2C%22settings%22%3A%7B%22reset%22%3A%2228%22%2C%22noise%22%3A%5B%7B%22rand%22%3A%221200-1230%22%2C%22delay%22%3A%2210%22%7D%2C%7B%22rand%22%3A%221200-1230%22%2C%22delay%22%3A%2210%22%7D%2C%7B%22rand%22%3A%2212&sni=flow-vault-hiizyn.pages.dev&allowInsecure=0&host=flow-vault-hiizyn.pages.dev#⚡",
+    "ping": 406.8,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1725.0,
-    "endpoint": "95.215.201.18:19999",
-    "ip": "95.215.201.18"
+    "score": 1490.0,
+    "endpoint": "159.60.146.82:443",
+    "ip": "159.60.146.82"
   }
 ]
