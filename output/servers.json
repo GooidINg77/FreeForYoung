@@ -1,14 +1,14 @@
 [
   {
     "rank": 1,
-    "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.155:443?security=tls&insecure=0&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=api.findlocaljobnetworkandbuildcommunityconnections.com#@ConfigV2RayNG",
-    "ping": 55.9,
+    "protocol": "VLESS",
+    "uri": "vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?&type=ws&headerType=none&host=soft-shadow-1e33.xicav73335.workers.dev&path=/ws#🇳🇱",
+    "ping": 979.8,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1730.0,
-    "endpoint": "216.106.186.155:443",
-    "ip": "216.106.186.155"
+    "score": 1390.0,
+    "endpoint": "103.133.1.160:80",
+    "ip": "103.133.1.160"
   }
 ]
