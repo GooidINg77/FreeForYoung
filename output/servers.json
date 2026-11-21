@@ -1,110 +1,14 @@
 [
   {
     "rank": 1,
-    "protocol": "VLESS-TLS",
-    "uri": "vless://1bc29b34-0a7d-4252-97bb-1cc3514e7d42@31.43.179.0:443?security=tls&sni=worker3.xomoh98816.workers.dev&fp=chrome&type=ws&host=worker3.xomoh98816.workers.dev&path=/LF5LdoZelHLG07nl&headers={",
-    "ping": 90.9,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1740.0,
-    "endpoint": "31.43.179.0:443",
-    "ip": "31.43.179.0"
-  },
-  {
-    "rank": 2,
-    "protocol": "VLESS-TLS",
-    "uri": "vless://1bc29b34-0a7d-4252-97bb-1cc3514e7d42@31.43.179.0:443?security=tls&sni=worker3.xomoh98816.workers.dev&fp=firefox&type=ws&host=worker3.xomoh98816.workers.dev&path=%2FLF5LdoZelHLG07nl&headers=%7B%0A++%22Host%22%3A+%22worker3.xomoh98816.workers.dev%22%0A%7D#🔥Join+Telegram:@Farah_VPN🟣",
-    "ping": 96.8,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1740.0,
-    "endpoint": "31.43.179.0:443",
-    "ip": "31.43.179.0"
-  },
-  {
-    "rank": 3,
-    "protocol": "VLESS-TLS",
-    "uri": "vless://10997f19-2951-4a9b-a26f-611a6bd72d02@185.18.250.2:443?type=ws&security=tls&fp=chrome&host=worker3.sicoro1729.workers.dev#🔥Join+Telegram:@Farah_VPN🟣",
-    "ping": 98.9,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1740.0,
-    "endpoint": "185.18.250.2:443",
-    "ip": "185.18.250.2"
-  },
-  {
-    "rank": 4,
-    "protocol": "VLESS-TLS",
-    "uri": "vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.18.47.161:443?type=ws&security=tls&fp=chrome&host=ahmad99hoseini.pages.dev#🔥Join+Telegram:@Farah_VPN🟣",
-    "ping": 116.2,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1740.0,
-    "endpoint": "104.18.47.161:443",
-    "ip": "104.18.47.161"
-  },
-  {
-    "rank": 5,
-    "protocol": "VLESS-TLS",
-    "uri": "vless://b2853d19-fada-44dc-8d44-967d1af122e0@190.93.245.187:8443?fp=chrome&host=wqa3miojjr8fyozhiui--su3-ucg1gdx.pages.dev&path=/eyJqdW5rIjoiZTA0TGg3eENkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&sni=wqa3miojjr8fyozhiui--su3-ucg1gdx.pages.dev&type=ws#🔥Join+Telegram:@Farah_VPN🟣",
-    "ping": 89.8,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1720.0,
-    "endpoint": "190.93.245.187:8443",
-    "ip": "190.93.245.187"
-  },
-  {
-    "rank": 6,
     "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.46:443?allowInsecure=1&sni=searchnationwidecareerchangehelperandguidancetoday.com#US",
-    "ping": 81.5,
+    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.46:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.findlocaljobnetworkandbuildcommunityconnections.com#🔥Join+Telegram:@Farah_VPN🟣",
+    "ping": 53.0,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1710.0,
-    "endpoint": "66.163.122.46:443",
-    "ip": "66.163.122.46"
-  },
-  {
-    "rank": 7,
-    "protocol": "TROJAN",
-    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.searchnationwidecareerchangehelperandguidancetoday.com#🇺🇸220294",
-    "ping": 83.0,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1710.0,
-    "endpoint": "66.163.122.113:443",
-    "ip": "66.163.122.113"
-  },
-  {
-    "rank": 8,
-    "protocol": "SS",
-    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#shadowsocks-1875022945",
-    "ping": 73.8,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1705.0,
-    "endpoint": "45.86.51.18:19999",
-    "ip": "45.86.51.18"
-  },
-  {
-    "rank": 9,
-    "protocol": "SS",
-    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#shadowsocks-1875023016",
-    "ping": 75.4,
-    "real_successes": 3,
-    "real_attempts": 3,
-    "real_success_rate": 1.0,
-    "score": 1705.0,
-    "endpoint": "185.230.230.18:19999",
-    "ip": "185.230.230.18"
+    "score": 1730.0,
+    "endpoint": "216.106.186.46:443",
+    "ip": "216.106.186.46"
   }
 ]
