@@ -1,26 +1,38 @@
 [
   {
     "rank": 1,
-    "protocol": "SS",
-    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999#🇪🇺",
-    "ping": 44.6,
+    "protocol": "TROJAN",
+    "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.30:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=resources.searchnationwidecareerchangehelperandguidancetoday.com#@pass_net",
+    "ping": 76.9,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1725.0,
-    "endpoint": "95.215.201.18:19999",
-    "ip": "95.215.201.18"
+    "score": 1730.0,
+    "endpoint": "66.163.122.30:443",
+    "ip": "66.163.122.30"
   },
   {
     "rank": 2,
     "protocol": "SS",
-    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999#shadowsocks-1875129452",
-    "ping": 46.3,
+    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@172.111.38.72:19999#🇺🇸",
+    "ping": 74.2,
     "real_successes": 3,
     "real_attempts": 3,
     "real_success_rate": 1.0,
-    "score": 1725.0,
-    "endpoint": "95.215.201.18:19999",
-    "ip": "95.215.201.18"
+    "score": 1705.0,
+    "endpoint": "172.111.38.72:19999",
+    "ip": "172.111.38.72"
+  },
+  {
+    "rank": 3,
+    "protocol": "SS",
+    "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#shadowsocks-1875023016",
+    "ping": 78.8,
+    "real_successes": 3,
+    "real_attempts": 3,
+    "real_success_rate": 1.0,
+    "score": 1705.0,
+    "endpoint": "185.230.230.18:19999",
+    "ip": "185.230.230.18"
   }
 ]
