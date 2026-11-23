@@ -1,3 +1,2 @@
-1. score=1710.0 | ping=164.4ms | real=3/3 | protocol=VLESS-TLS | endpoint=185.18.250.2:443
-2. score=1710.0 | ping=173.4ms | real=3/3 | protocol=VLESS-TLS | endpoint=185.18.250.2:443
-3. score=1550.0 | ping=773.7ms | real=3/3 | protocol=VLESS-TLS | endpoint=172.67.197.170:443
+1. score=1710.0 | ping=132.3ms | real=3/3 | protocol=VLESS-TLS | endpoint=172.64.154.113:8443
+2. score=1705.0 | ping=51.0ms | real=3/3 | protocol=SS | endpoint=95.215.201.18:19999
