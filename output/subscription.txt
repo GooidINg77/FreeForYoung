@@ -8,11 +8,5 @@
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #proxy-ping-mode: keepalive
 #ping-result: time
-vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:2052?type=ws&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&path=/Telegram-XV2ry2?ed=2048#🇸🇬?serverDescription=RnJlZUZvcllvdW5nIFZMRVNTIDAxIMK3IDE1NG1z
-vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=freeceshi6.frii.site&fp=chrome&type=ws&allowInsecure=0&sni=freeceshi6.frii.site#Tel@MARAMBASHI?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMiDCtyAxNTVtcw==
-vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?&security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&headerType=none&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwMyDCtyAyMDhtcw==
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&path=/#🇫🇷?serverDescription=RnJlZUZvcllvdW5nIFZMRVNTIDA0IMK3IDEyNDZtcw==
-vless://db906786-8c49-4b17-9182-cea680ef954d@104.25.128.15:443?&security=tls&fp=chrome&sni=krc.80782636.xyz&type=ws&headerType=none&host=krc.80782636.xyz&path=%2Fkw7x2mq9#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwNSDCtyAxMjc2bXM=
-vless://db906786-8c49-4b17-9182-cea680ef954d@104.25.128.15:443?&security=tls&fp=chrome&sni=krc.80782636.xyz&type=ws&headerType=none&host=krc.80782636.xyz&path=/kw7x2mq9#🇰🇷?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwNiDCtyAxMzA0bXM=
-vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@172.67.139.189:443?path=/700gvl&security=tls&encryption=none&insecure=0&host=fr-free.fastestrelay.com&fp=chrome&type=ws&allowInsecure=0&sni=fr-free.fastestrelay.com#🔥Join+Telegram:@Farah_VPN🟣?serverDescription=RnJlZUZvcllvdW5nIFRMUyAwNyDCtyA5MzJtcw==
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&path=/#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-FR-1...?serverDescription=RnJlZUZvcllvdW5nIFZMRVNTIDA4IMK3IDg4MG1z
+trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?allowInsecure=1&type=tcp#trojan-1828371110?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMSDCtyA3OW1z
+trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?allowInsecure=1&type=tcp#trojan-1827148746?serverDescription=RnJlZUZvcllvdW5nIFRST0pBTiAwMiDCtyA4NG1z
